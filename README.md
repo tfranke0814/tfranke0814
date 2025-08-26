@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- Interested in what I've been up to? Check out my portfolio! https://tfranke0814.github.io/portfolio/index.html
+- Want to connect? Check out my LinkedIn! https://www.linkedin.com/in/tyson-franke
+
 <!--
 **tfranke0814/tfranke0814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
