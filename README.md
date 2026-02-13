@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-- Interested in what I've been up to? Check out my portfolio! https://tfranke0814.github.io/
+Do you like movies? Well we like to talk about them. Check out PondTalks!!
+
+👉 [Spotify](https://open.spotify.com/show/0dIp2sSBecWUj3UWgS1q5Y?si=f4f157bb5b5648d0) 
+
+👉 [Apple Music](https://podcasts.apple.com/us/podcast/pondtalks/id1876066904)
+
+
+- Interested in what I've been up to? Check out my pinned repos or my portfolio! https://tfranke0814.github.io/
 - Want to connect? Check out my LinkedIn! https://www.linkedin.com/in/tyson-franke
 
 <!--
