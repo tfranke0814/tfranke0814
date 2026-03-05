@@ -9,6 +9,7 @@ Do you like movies? Well we like to talk about them. Check out PondTalks!!
 ---
 
 Interested in what I've been up to? Check out my pinned repos or my portfolio! https://tfranke0814.github.io/
+
 Want to connect? Check out my LinkedIn! https://www.linkedin.com/in/tyson-franke
 
 <!--
