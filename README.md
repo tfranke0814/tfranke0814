@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Do you like movies? Well we like to talk about them. Check out PondTalks!!
+Do you like movies? Well we like to talk about them. Check out PondTalks!! https://tfranke0814.github.io/pondtalks/
 
 👉 [Spotify](https://open.spotify.com/show/0dIp2sSBecWUj3UWgS1q5Y?si=f4f157bb5b5648d0) 
 
